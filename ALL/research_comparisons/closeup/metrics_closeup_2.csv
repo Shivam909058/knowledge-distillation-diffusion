@@ -1,0 +1,4 @@
+Comparison,SSIM,MSE,Histogram Similarity,Hash Similarity,Sharpness Ratio,Color Similarity
+Original vs Fine-tuned,0.051436,103.779830,0.942369,0.576172,0.952469,0.999999
+Original vs SDXL,0.080469,101.734873,0.378057,0.563477,6.087441,0.989186
+Fine-tuned vs SDXL,0.040673,100.995299,0.393603,0.483398,6.391220,0.989009

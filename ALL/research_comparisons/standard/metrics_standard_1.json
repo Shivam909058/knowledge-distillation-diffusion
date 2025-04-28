@@ -1,0 +1,26 @@
+{
+  "original_vs_finetuned": {
+    "mse": 104.73222223917644,
+    "ssim": 0.12734881807464216,
+    "hist_similarity": 0.009504640176071222,
+    "hash_similarity": 0.4150390625,
+    "sharpness_ratio": 1.740441497125932,
+    "color_similarity": 0.9947208949131744
+  },
+  "original_vs_sdxl": {
+    "mse": 105.54061889648438,
+    "ssim": 0.16532270732950702,
+    "hist_similarity": 0.17469200642645025,
+    "hash_similarity": 0.4853515625,
+    "sharpness_ratio": 3.797513632917204,
+    "color_similarity": 0.9983127302425411
+  },
+  "finetuned_vs_sdxl": {
+    "mse": 105.37020746866862,
+    "ssim": 0.15814973416330871,
+    "hist_similarity": -0.025852005763177782,
+    "hash_similarity": 0.537109375,
+    "sharpness_ratio": 2.181925453760036,
+    "color_similarity": 0.9934952386887681
+  }
+}
