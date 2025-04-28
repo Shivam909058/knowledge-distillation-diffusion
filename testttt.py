@@ -52,7 +52,7 @@ BASE_DIR.mkdir(exist_ok=True)
 (BASE_DIR / "comparison_output").mkdir(exist_ok=True)
 
 # Setup Hugging Face Authentication
-login(token="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")
+login(token="put your token here")
 
 # Force CUDA to be used
 assert torch.cuda.is_available(), "CUDA not available! Make sure your GPU is enabled."
